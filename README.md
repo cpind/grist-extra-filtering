@@ -1,0 +1,3 @@
+An extra filtering panel for Grist.
+
+More info coming soon ...
